@@ -93,4 +93,4 @@ MarketingPerformanceData_sql-analysis/
 ## About
 
 Built as part of a self-directed SQL learning portfolio.\
-Connect on [LinkedIn](https://www.linkedin.com/in/donovanschell) or view more projects at [github.com/DonovanSchell](https://github.com/DonovanSchell).
+Connect on [LinkedIn](https://www.linkedin.com/in/donovan-schell-23306626/) or view more projects at [github.com/DonovanSchell](https://github.com/DonovanSchell).
