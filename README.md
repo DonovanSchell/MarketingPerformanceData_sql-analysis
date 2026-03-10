@@ -67,8 +67,6 @@ ROI averaged 5.0, conversion rate 8%, and acquisition cost ~$12,500 regardless o
 ```
 MarketingPerformanceData_sql-analysis/
 ├── README.md
-├── data/
-│   └── marketing_campaign_dataset.csv
 ├── queries/
 │   ├── 01_exploratory_overview.sql
 │   ├── 02_campaign_type_performance.sql
